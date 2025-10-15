@@ -37,3 +37,5 @@ Feel free to ask questions or suggest improvements!
 -https://jdsherbert.itch.io/ultimate-ui-sfx-pack
 
 -https://cainos.itch.io/pixel-art-platformer-village-props
+
+-https://aamatniekss.itch.io/fantasy-knight-free-pixelart-animated-character
