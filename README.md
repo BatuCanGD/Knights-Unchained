@@ -31,6 +31,9 @@ Feel free to ask questions or suggest improvements!
 ## Credits
 
 - Made with free assets listed below:
+
 -https://kronbits.itch.io/freesfx
+
 -https://jdsherbert.itch.io/ultimate-ui-sfx-pack
+
 -https://cainos.itch.io/pixel-art-platformer-village-props
